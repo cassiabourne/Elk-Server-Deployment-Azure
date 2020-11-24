@@ -92,11 +92,11 @@ These Beats allow us to collect the following information from each machine:
 
 The Ansible Playbooks used can be found here:
 
-ansible-playbook [elk-playbook.yml](https://github.com/cassiabourne/Project-1/blob/main/Elk-Playbook.txt)
+ansible-playbook [Elk-playbook](https://github.com/cassiabourne/Project-1/blob/main/Elk-Playbook.txt)
 
-ansible-playbook [filebeat-playbook.yml](https://github.com/cassiabourne/Project-1/blob/main/Filebeat-Playbook.txt)
+ansible-playbook [filebeat-playbook](https://github.com/cassiabourne/Project-1/blob/main/Filebeat-Playbook.txt)
 
-Ansible-playbook [metricbeat-playbook.yml](https://github.com/cassiabourne/Project-1/blob/main/Metricbeat-Playbook.txt)
+Ansible-playbook [metricbeat-playbook](https://github.com/cassiabourne/Project-1/blob/main/Metricbeat-Playbook.txt)
 
 
 
